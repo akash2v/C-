@@ -38,7 +38,7 @@ int main()
     {
         cin >> a[i];
     }
-    cout << getMin(a, n) << endl;
-    cout << getMax(a, n) << endl;
+    cout << " Min of the array "<< getMin(a, n) << endl;
+    cout << "max of the array "<<getMax(a, n) << endl;
     return 0;
 }
