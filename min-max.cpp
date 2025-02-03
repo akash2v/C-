@@ -26,7 +26,7 @@ int getMax(int a[], int n)
         //     max = a[i];
         // }
     }
-    return max;
+    return maxi;
 };
 
 int main()
